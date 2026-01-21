@@ -1,4 +1,5 @@
 NinjaSubs is a modern subtitle system for SEGA Dreamcast games using njPrint library function.
+
 It's aimed to translators / modders, that want to add subtitles to games with a simple interface.
 
 - Generate SH4 code including subtitles when "Patch Game Binary" is pressed
