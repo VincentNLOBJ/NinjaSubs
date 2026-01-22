@@ -24,5 +24,8 @@ However, you must still manually implement the following if they do not already 
 - Scene and timer initialization functions  
 - The function or hook where NinjaSubs is executed
 
-<img width="642" height="527" alt="image" src="https://github.com/user-attachments/assets/0646f2cc-cc8c-47cd-b537-d57acfdc3470" />
+### Games Using NinjaSubs:
+- Rent-A-Hero No.1 (English Translation)
+- SEGAGAGA (English Translation)
 
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/5da1c42a-c45f-402f-810a-8097becf22ec)
